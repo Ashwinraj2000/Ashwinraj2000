@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Ashwinraj2000
-- 👀 I’m interested in coding and developing projects
-- 🌱 I’m currently learning advanced JAVA
-- 📫 You can reach me via EMAIL:ashwindurairaj.ar@gmail.com
+An aspiring software developer from India
 
-<!---
-Ashwinraj2000/Ashwinraj2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Advanced JAVA
+
+📄 LinkedIn profile link www.linkedin.com/in/ashwinraj-d
+
+📫 How to reach me :ashwindurairaj.ar@gmail.com
+  
+Languages and Tools:
+  c
+  java
+  css3
+  html5
+ 
