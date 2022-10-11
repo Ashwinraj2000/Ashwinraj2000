@@ -7,5 +7,5 @@ An aspiring software developer from India
 📫 How to reach me :ashwindurairaj.ar@gmail.com
   
 Languages and Tools:
-  c, java, css3, html5
+  C, Java, CSS3, HTML5
  
